@@ -1,0 +1,6 @@
+{
+  "name": "বিদ্যুৎ সাব-মিটার ক্যালকুলেটর",
+  "description": "মেইন মিটার এবং একাধিক সাব-মিটারের রিডিং দিয়ে সহজে সঠিক বিদ্যুৎ বিল হিসাব, শেয়ারড মিটার ডিস্ট্রিবিউশন ও রসিদ তৈরির অ্যাপ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
